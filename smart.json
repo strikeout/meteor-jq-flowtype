@@ -1,6 +1,6 @@
 {
   "name": "jq-flowtype",
-  "description": "jQuery FlowType.JS smart package for Meteort",
+  "description": "jQuery FlowType.JS smart package for Meteor",
   "homepage": "https://github.com/strikeout/meteor-jq-knob",
   "author": "Thomas Steinhauer",
   "version": "0.0.1",
